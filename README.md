@@ -27,6 +27,8 @@ arr=np.array(eval(input()))
 P,L,U=lu(arr)
 print(L)
 print(U)
+```
+```
 (ii) To find the LU Decomposition of a matrix
 
 '''Program to solve a matrix using LU decomposition.
